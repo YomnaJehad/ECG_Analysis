@@ -1,6 +1,6 @@
 The autocorrelation of Data2 shows peaks of smaller values
 also the highest second peak will be found in a smaller sample number compared to the Data1, this indicates a faster heart rate.
-so as we can see the faster the heart rate, the smaller the index of the highest second peak in the autocorrelation in the ECG is.
+so as we can say the faster the heart rate, the smaller the index of the highest second peak in the autocorrelation in the ECG.
 Thus the inverse of the index is propotional to the heart beats rate, the larger this measure is, the larger the amount of Atrial Fibrillation.
 Knowing that the heart beat rate's normal range is between 60-90 bpm -->
 Using the formula (hear_rate=60/(index*sampling_time)) 

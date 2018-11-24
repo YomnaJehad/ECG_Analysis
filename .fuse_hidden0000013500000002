@@ -1,3 +1,0 @@
-The autocorrelation of Data2 shows peaks of smaller values
-also the highest second peak will be found in a smaller sample number compared to the Data1, this indicates a faster heart rate.
-so as we can see the faster the heart rate, the smaller the index of the highest second peak in the autocorrelation in the ECG is.
